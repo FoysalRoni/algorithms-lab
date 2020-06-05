@@ -5,4 +5,5 @@ This repository contains codes from algorithm lab task, assignments.
 2. Added ps1_task5_2.cpp
 3. Added ps1_task6.cpp
 4. Added ps1_task7.cpp
+5. Added ps1_task8.cpp
 
