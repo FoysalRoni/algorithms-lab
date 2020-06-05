@@ -1,4 +1,4 @@
-# algorithms-lab
+# Algorithms-lab
 This repository contains codes from algorithm lab task, assignments.
 ###Added Codes list
 1. Added ps1_task5_1.cpp
