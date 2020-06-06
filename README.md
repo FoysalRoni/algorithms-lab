@@ -1,5 +1,8 @@
 # Algorithms-lab
 This repository contains codes from algorithm lab task, assignments.
+### Lab Task 01
+1. Linear search
+2. Bubble sort
 ### Added Codes list
 1. ps1_task5_1.cpp
 2. ps1_task5_2.cpp
