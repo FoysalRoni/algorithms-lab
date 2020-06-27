@@ -13,3 +13,8 @@ This repository contains codes from algorithm lab task, assignments.
 3. Practice Problems From Lab Manual [Week 4]
 4. Sherlock and Numbers
 5. The rise of the weird... things [1]
+
+### Lab Task 03 (Week 5)
+1. Selection Sort
+2. Merge sort
+3. Quick sort
