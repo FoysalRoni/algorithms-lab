@@ -3,6 +3,9 @@ This repository contains codes from algorithm lab task, assignments.
 ### Lab Task 01 (Week 3)
 1. Linear search
 2. Bubble sort
+3. Practice Problems From Lab Manual
+4. Min-Max.cpp
+5. C.Sort it out!
 
 ### Lab Task 02 (Week 4)
 1. Binary search
