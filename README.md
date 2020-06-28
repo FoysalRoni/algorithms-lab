@@ -1,4 +1,4 @@
-# Algorithms-lab
+# Algorithm
 This repository contains codes from algorithm lab task, assignments.
 ### Lab Task 01 (Week 3)
 1. Linear search
@@ -18,3 +18,9 @@ This repository contains codes from algorithm lab task, assignments.
 1. Selection Sort
 2. Merge sort
 3. Quick sort
+
+### Problem Set 01 [Theory]
+1. Task 5
+2. Task 6
+3. Task 7
+4. Task 8
