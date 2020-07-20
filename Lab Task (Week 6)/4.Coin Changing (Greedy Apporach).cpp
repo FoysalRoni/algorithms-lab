@@ -28,6 +28,7 @@ void coin_change(int coins[], int n, int m)
 int main()
 {
     int n,change;
+    cout<<"Enter the number of coins: ";
     cin>>n;
     int coins[n];
     for(int i=0; i<n; i++)
