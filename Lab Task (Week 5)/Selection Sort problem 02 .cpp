@@ -2,10 +2,10 @@
 
 using namespace std;
 
-void selection_sort(int arr[],int n)
+void selection_sort(int arr[],int n,int t)
 {
     int i,j,min,temp;
-    for(i=0; i<n-1; i++)
+    for(i=0; i<t; i++)
     {
         min = i;
         for(j=i+1; j<n; j++)
@@ -26,14 +26,17 @@ void selection_sort(int arr[],int n)
 
 int main()
 {
-    int n,i;
+    int n,i,t;
     cin>>n;
     int arr[n];
     for(i=0; i<n; i++)
     {
         cin>>arr[i];
     }
-    selection_sort(arr,n);
+    cout<<"t=";
+    cin>>t;
+    selection_sort(arr,n,t);
+    cout<<"After "<<t<<" Times Array: ";
     for(i=0; i<n; i++)
     {
         cout << arr[i]<<" ";
