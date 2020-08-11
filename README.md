@@ -33,6 +33,9 @@ This repository contains codes from algorithm lab task, assignments.
 2. Longest Common Subsequence (Dynamic Approach)
 3. Longest Increasing Subsequence (Dynamic Approach)
 
+### Lab Task (Week 9)
+1. DFS
+
 ### Problem Set 01 [Theory]
 1. Task 5
 2. Task 6
