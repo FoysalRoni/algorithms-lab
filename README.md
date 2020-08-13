@@ -32,7 +32,7 @@ This repository contains codes from algorithm lab task, assignments.
 4. Fractional Knapsack (Greedy Approach)
 5. Fibonacci Number(Dynamic Approach)
 
-### Mid-Term Examination
+### Mid-Term Examination (Week 7)
 
 ### Lab Task (Week 8)
 1. Bin Packing
