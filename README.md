@@ -32,6 +32,8 @@ This repository contains codes from algorithm lab task, assignments.
 4. Fractional Knapsack (Greedy Approach)
 5. Fibonacci Number(Dynamic Approach)
 
+### Mid-Term Examination
+
 ### Lab Task (Week 8)
 1. Bin Packing
 2. Longest Common Subsequence (Dynamic Approach)
