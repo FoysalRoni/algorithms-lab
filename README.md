@@ -2,6 +2,10 @@
 This repository contains codes from algorithm lab task, assignments.
 ### [Statistical Toolbox codes](https://github.com/foysal15-12486/algorithms-lab/tree/master/Statistical%20Toolbox%20Project)
 
+### Assignments
+1. Assignment I
+2. Assignment II
+
 ### Lab Task (Week 3)
 1. Linear search
 2. Bubble sort
