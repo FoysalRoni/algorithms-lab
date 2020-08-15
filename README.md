@@ -2,6 +2,8 @@
 This repository contains codes from algorithm lab task, assignments.
 ### [Statistical Toolbox codes](https://github.com/foysal15-12486/algorithms-lab/tree/master/Statistical%20Toolbox%20Project)
 
+### [Presentation](https://github.com/foysal15-12486/algorithms-lab/tree/master/Presentation)
+
 ### Assignments
 1. Assignment I
 2. Assignment II
